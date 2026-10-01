@@ -1,0 +1,21 @@
+# Keil MDK
+*.uvgui.*
+*.bak
+*.dep
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+Debug/
+Release/
+Listings/
+Objects/
+
+#系统文件
+Thumbs.db
+.DS_Store
